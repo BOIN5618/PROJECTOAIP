@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="AvtorizPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Kursy\PageFinance.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="OproectePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PageKursy.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PageLichKab.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Kursy\PageMarceting.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Kursy\PageRS.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Kursy\PageTM.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PageUsers.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="RegistrPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AvtorizPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Kursy\PageFinance.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="OproectePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PageKursy.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PageLichKab.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Kursy\PageMarceting.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Kursy\PageRS.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Kursy\PageTM.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PageUsers.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="RegistrPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
